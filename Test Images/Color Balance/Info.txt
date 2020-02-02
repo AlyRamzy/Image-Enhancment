@@ -1,0 +1,63 @@
+(1008, 756, 3)
+Time taken = 4.18 secs 
+
+(540, 802, 3)
+Time taken = 2.4 secs 
+
+(374, 614, 4)
+Time taken = 1.71 secs 
+
+(341, 512, 3)
+Time taken = 0.93 secs 
+
+(1326, 2000, 3)
+Time taken = 14.86 secs 
+
+(1348, 2048, 3)
+Time taken = 15.54 secs 
+
+(315, 560, 3)
+Time taken = 1.15 secs 
+
+(1080, 1920, 3)
+Time taken = 11.85 secs 
+
+(373, 560, 3)
+Time taken = 1.17 secs 
+
+(1067, 1600, 3)
+Time taken = 9.64 secs 
+
+(194, 259, 3)
+Time taken = 0.28 secs 
+
+(576, 1024, 3)
+Time taken = 3.28 secs 
+
+(667, 1000, 3)
+Time taken = 4.3 secs 
+
+(960, 640, 4)
+Time taken = 3.97 secs 
+
+(380, 569, 3)
+Time taken = 1.24 secs 
+
+(337, 282, 4)
+Time taken = 0.54 secs 
+
+(501, 666, 3)
+Time taken = 2.18 secs 
+
+(533, 800, 3)
+Time taken = 2.36 secs 
+
+(768, 960, 4)
+Time taken = 4.81 secs 
+
+(320, 570, 3)
+Time taken = 1.01 secs 
+
+(533, 800, 3)
+Time taken = 2.36 secs 
+

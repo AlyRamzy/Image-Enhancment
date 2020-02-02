@@ -1,0 +1,27 @@
+(598, 896, 3)
+Time taken = 5.76 secs 
+
+(480, 640, 3)
+Time taken = 2.33 secs 
+
+(480, 640, 3)
+Time taken = 2.38 secs 
+
+(480, 640, 3)
+Time taken = 2.38 secs 
+
+(600, 400, 3)
+Time taken = 1.82 secs 
+
+(426, 640, 3)
+Time taken = 1.76 secs 
+
+(400, 600, 3)
+Time taken = 2.58 secs 
+
+(480, 640, 3)
+Time taken = 2.36 secs 
+
+(256, 256, 3)
+Time taken = 0.41 secs 
+
